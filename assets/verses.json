@@ -71,8 +71,8 @@
       { "lyric": "You give me love", "wait": 1800, "timestamp": 174560 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/1/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/1/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/1/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/1/audio"
     }
   },
   {
@@ -173,8 +173,8 @@
       { "lyric": "[ Instrumental ]", "wait": 0, "timestamp": 171050 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/2/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/2/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/2/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/2/audio"
     }
   },
   {
@@ -267,8 +267,8 @@
       { "lyric": "Omoge tell me what's suppin gaan", "wait": 3110, "timestamp": 142270 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/3/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/3/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/3/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/3/audio"
     }
   },
   {
@@ -343,8 +343,8 @@
       { "lyric": "You give me love", "wait": 1800, "timestamp": 174560 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/1/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/1/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/1/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/1/audio"
     }
   },
   {
@@ -445,8 +445,8 @@
       { "lyric": "[ Instrumental ]", "wait": 0, "timestamp": 171050 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/2/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/2/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/2/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/2/audio"
     }
   },
   {
@@ -539,8 +539,8 @@
       { "lyric": "Omoge tell me what's suppin gaan", "wait": 3110, "timestamp": 142270 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/3/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/3/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/3/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/3/audio"
     }
   },
   {
@@ -615,8 +615,8 @@
       { "lyric": "You give me love", "wait": 1800, "timestamp": 174560 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/1/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/1/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/1/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/1/audio"
     }
   },
   {
@@ -717,8 +717,8 @@
       { "lyric": "[ Instrumental ]", "wait": 0, "timestamp": 171050 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/2/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/2/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/2/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/2/audio"
     }
   },
   {
@@ -811,8 +811,8 @@
       { "lyric": "Omoge tell me what's suppin gaan", "wait": 3110, "timestamp": 142270 }
     ],
     "audios": {
-      "original": "http://localhost:8000/api/v1/verse/3/audio",
-      "instrumental": "http://localhost:8000/api/v1/verse/3/audio"
+      "original": "https://goodsing-backend.onrender.com/api/v1/verse/3/audio",
+      "instrumental": "https://goodsing-backend.onrender.com/api/v1/verse/3/audio"
     }
   }
 ]
